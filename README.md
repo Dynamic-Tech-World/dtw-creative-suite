@@ -52,6 +52,7 @@ Copyright © 2024 Dynamic Tech World.
 All rights reserved. The source code for these tools is kept private to protect Intellectual Property. You are free to utilize the live deployments for your creative projects.
 
 ---
-## ☕ Support the Suite
-Help us keep building free creative tools for the community:
-[**Donate via Buy Me a Coffee**](https://buymeacoffee.com/dynamictechworld)
+## ☕ Support the Lab
+If you find these tools useful, consider supporting our production costs.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dynamictechworld)
